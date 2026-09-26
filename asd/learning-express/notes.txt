@@ -1,0 +1,20 @@
+Node vs Express
+: - bina express kai node chala sakte hoon but express kai binaa node chalaa sakte hoon 
+
+
+Why use express 
+:- Jyadaa backchodi nahi hain isse use krnai main 
+
+
+
+What is express : -  is a package used for routing  , and  ,managment
+
+
+WHy express : - cause node (http) is diffficult to use 
+
+
+Routing : - Route bannai kai process ko bannaa
+Route : -  /profile 
+/about e.t.c
+
+
